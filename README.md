@@ -12,4 +12,4 @@ Stuff used:
 - 1x Laptop (for the .py code)
 - 2x Positional MG996R servos
 
-You can check the demonstration videos and for more details at https://89labs.wordpress.com/
+You can check the demonstration videos and for more details at https://89labs.wordpress.com/2025/11/15/simple-turret-project/
