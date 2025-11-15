@@ -1,4 +1,4 @@
-This is a simple turret project that uses OpenCV on a laptop connnected to an Arduino UNO that controls two servos (one for pan, and one for tilt).
+This is a simple turret project that tracks red objects using OpenCV on a laptop. The laptop is then connnected to an Arduino UNO that controls two servos (one for pan, and one for tilt).
 
 The way this works is that the OpenCV finds the centroid of the biggest red object, and then the rest of the python code relates the center of the camera to that centroid by using a closed-loop control scheme.
 
