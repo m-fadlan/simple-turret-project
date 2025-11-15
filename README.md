@@ -6,4 +6,10 @@ There are two control schemes : One that uses Fuzzy Logic (found in turretFLC.py
 
 After the control scheme decides the input, the python code that is connected to the laptop then sends the input value to Arduino UNO through UART using raw bytes. (You can check the code yourself for more details.) 
 
+Stuff used:
+- 1x Arduino UNO
+- 1x Webcam
+- 1x Laptop (for the .py code)
+- 2x Positional MG996R servos
+
 You can check the demonstration videos and for more details at https://89labs.wordpress.com/
